@@ -6,6 +6,3 @@
 2. Dataset now is not consistent with the paper due to some personal reason.
 3. In `feature_extractor.py`, the latent feature, which is the GRU's output, seems quirky.
 # code
-# code
-# code
-# code
